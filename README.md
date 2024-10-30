@@ -1,6 +1,5 @@
 # Hey there! I'm I.Sreeja👋
 
-![Banner image of your favorite tech stack or a landscape photo that represents your personality](https://your-image-link.com)
 
 ---
 
@@ -41,21 +40,12 @@ I’m always excited to learn new languages and tools to stay updated and improv
 
 ---
 
-### 💼 Featured Projects
-
-| Project Name                | Description                                           | Repo |
-| ----------------------------| ----------------------------------------------------- | ---- |
-| **[Project A](https://github.com/yourusername/projectA)** | A [type of project] built with [tech stack] | [GitHub](https://github.com/yourusername/projectA) |
-| **[Project B](https://github.com/yourusername/projectB)** | A [type of project] focused on [problem it solves] | [GitHub](https://github.com/yourusername/projectB) |
-| **[Project C](https://github.com/yourusername/projectC)** | An open-source project for [community/learning/sharing] | [GitHub](https://github.com/yourusername/projectC) |
-
----
 
 
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/sreeja-ippala-7609a62b8/)
+[![LinkedIn] (https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg)(https://www.linkedin.com/in/sreeja-ippala-7609a62b8/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com)
 
