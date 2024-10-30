@@ -6,12 +6,19 @@
 
 ### 🚀 About Me
 
-I’m a Full-Stack Developer with a passion for crafting beautiful, functional applications. My journey began with **[mention how you got into tech]** and has since led me to build projects with **[key technologies]** and contribute to open-source communities.
+ I'm a versatile developer with experience across multiple programming languages and disciplines. Here’s a quick look at my skills:
 
-- 🛠 **Current Stack**: [List out the main languages and tools you use]
-- 🎨 **Current Project**: [Name of the project] – a [type of project, e.g., machine learning project, game, etc.]
-- 🌱 **Learning**: [New language or technology you're diving into]
-- 🤔 **Interests**: [Mention any niche interests, like "Exploring AI ethics" or "Developing accessible web apps"]
+Languages: Comfortable working with C, C++, Java, Python, SQL, Kotlin and JavaScript.
+Frontend: Efficient in HTML, CSS, and JavaScript, with experience using modern libraries and frameworks like React.
+Backend: Learn't Node.js for creating scalable and efficient APIs.
+Database: Have knowledge on SQL database MySQL and NoSQL options like MongoDB.
+Data Science: Currently learning data analysis and visualization with Python (Pandas, Matplotlib) and machine learning basics using Scikit-Learn.
+I’m always excited to learn new languages and tools to stay updated and improve my development workflow. 
+
+- 🛠 **Current Stack**: Working on Android programming.
+- 🎨 **Current Project**: Developing an app.
+- 🌱 **Learning**: Learning machine learning basics using Scikit-Learn.
+- 🤔 **Interests**: "Developing accessible mobile and web apps"
 
 ---
 
