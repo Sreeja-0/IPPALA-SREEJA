@@ -51,18 +51,11 @@ I’m always excited to learn new languages and tools to stay updated and improv
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://www.linkedin.com/in/sreeja-ippala-7609a62b8/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com)
 
@@ -70,7 +63,9 @@ I’m always excited to learn new languages and tools to stay updated and improv
 
 ### 🎉 Fun Facts
 
-- 🎸 I love [hobby or interest, like playing guitar]
-- 🌍 I speak [languages you know]
-- 💡 Fun fact: [A unique or quirky fact about you]
-# IPPALA-SREEJA
+- 🎸 I love Dancing, Listening to music.
+- 🌍 I speak English(4.5), Telugu(4.9), Hindi(4.0)
+- 💡 Fun fact: I enjoy reverse engineering. 🔍 Breaking things apart and understanding how they work is half the fun for me!
+
+
+
