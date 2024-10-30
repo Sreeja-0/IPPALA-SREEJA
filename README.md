@@ -9,10 +9,20 @@
  I'm a versatile developer with experience across multiple programming languages and disciplines. Here’s a quick look at my skills:
 
 Languages: Comfortable working with C, C++, Java, Python, SQL, Kotlin and JavaScript.
+
+
 Frontend: Efficient in HTML, CSS, and JavaScript, with experience using modern libraries and frameworks like React.
+
+
 Backend: Learn't Node.js for creating scalable and efficient APIs.
+
+
 Database: Have knowledge on SQL database MySQL and NoSQL options like MongoDB.
+
+
 Data Science: Currently learning data analysis and visualization with Python (Pandas, Matplotlib) and machine learning basics using Scikit-Learn.
+
+
 I’m always excited to learn new languages and tools to stay updated and improve my development workflow. 
 
 - 🛠 **Current Stack**: Working on Android programming.
@@ -24,10 +34,10 @@ I’m always excited to learn new languages and tools to stay updated and improv
 
 ### 🛠 Tech Toolbox
 
-| Language       | Framework       | Tool           |
-| -------------- | --------------- | -------------- |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| Language       | Framework       |
+| -------------- | --------------- | 
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | 
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white) |![C]
 
 ---
 
