@@ -45,7 +45,7 @@ I’m always excited to learn new languages and tools to stay updated and improv
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg)](https://www.linkedin.com/in/sreeja-ippala-7609a62b8/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreeja-ippala-7609a62b8/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-333?style=flat-square&logo=github&logoColor=white)](https://yourportfolio.com)
 
